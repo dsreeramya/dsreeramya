@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Python" width="26px" src="python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="vsc.svg" style="padding-right:10px;" />

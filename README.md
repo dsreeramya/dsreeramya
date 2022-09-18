@@ -27,8 +27,6 @@
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="vsc.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="github-original.svg" style="padding-right:10px;" />

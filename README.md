@@ -8,9 +8,6 @@
 
 ### Connect with me:
 
-[<img src="https://www.svgrepo.com/show/183608/twitter.svg" width="26px"
-     style="float: left; margin-right: 10px;" />](https://twitter.com/SreeramyaD)
-&nbsp;&nbsp;
 [<img src="https://www.svgrepo.com/show/70809/linkedin.svg" width="26px"
      style="float: left; margin-right: 10px;" />](https://www.linkedin.com/in/sreeramya-d-9a4403203/)
 

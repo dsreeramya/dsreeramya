@@ -1,8 +1,8 @@
 # Hi there, I'm Sreeramya Dharani Pragada!! 👋 
 ## A student currently studying in PES University,Bangalore :')
-- 🌱 I’m a coding weeb who's currently into ML and NLP :eyes:
+- 🌱 I’m a coding weeb who's currently into technologies such as cloud computing and ML,specifically NLP :eyes:
 - 👯 I’m looking to collaborate with other ML enthusiasts on projects
-- 🥅 2022 Goals: Get into open source and create a few solo projects
+- 🥅 2023 Goals: Create a few solo projects :muscle:
 - ⚡ Fun fact: I love music and basketball :)
 - 😻 Here's my hackerrank fyi: [@dsreeramya](https://www.hackerrank.com/dsreeramya)
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Sreeramya Dharani Pragada!! 👋 
 ## An undergrad student currently studying in PES University,Bangalore :')
-- 🌱 I’m a coding weeb who's currently into technologies such as Cloud Computing and ML, namely NLP :eyes:
+- 🌱 I’m a computer science enthusiast who's currently into technologies such as Artificial Intelligence, Machine Learning, Deep Learning and Cloud Computing :eyes:
 - 👯 I’m looking to collaborate with other ML enthusiasts on projects
 - 🥅 2023 Goals: Create a few solo projects :muscle:
 - ⚡ Fun fact: I love music and basketball :)

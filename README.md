@@ -2,8 +2,8 @@
 ## ECE graduate from PES University,Bangalore :')
 - 🌱 I’m a computer science enthusiast who's currently into technologies such as Machine Learning, Deep Learning, Natural Language Processing :eyes:
 - 👯 I’m looking to collaborate with other ML enthusiasts on projects
-- 🥅 2024 Goals: Create a few solo projects :muscle:
-- ⚡ Fun fact: I love music and gym :)
+- 🥅 2026 Goals: Create a few solo projects :muscle:
+- ⚡ Fun fact: I love music and running :)
 
 ### Connect with me:
 
